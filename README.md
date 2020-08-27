@@ -8,7 +8,7 @@ MY ALL PROJECTS SOURCE CODE COLLECTIONS
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Multiobjectdetection.gif"\></p>
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/carscount.gif"\></p>
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/queue.gif"\></p>
-<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/liscence%20plate.gif"\></p>
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/realtimedetection.gif"\></p>
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/liscence%20plate.gif"\></p>
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/liscence%20plate.gif"\></p>
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/liscence%20plate.gif"\></p>
