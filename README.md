@@ -2,7 +2,7 @@
 
 **PROJECT OUTPUTS**
 
-## Project -  RealTime Multi Object Detection using YoloV4
+## Project -  Real Time Multi Object Detection using YoloV4
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/realtimedetection.gif"\></p>
  
@@ -13,7 +13,7 @@ Click here to see the [Source code](https://github.com/SIVASHANKAR-S/NewProjects
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/results.gif" width="700" height="400"\></p>
 
-Click the link to see [Source Files](https://github.com/SIVASHANKAR-S/ObjectLivecount)
+Click here to see [Source Files](https://github.com/SIVASHANKAR-S/ObjectLivecount)
 
 ## Project - Face Mask Detector
 
@@ -21,25 +21,27 @@ Click the link to see [Source Files](https://github.com/SIVASHANKAR-S/ObjectLive
 
 Click here to see the [Source Code](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/FaceMaskDetector)
 
-
+## Project - Intel Edge AI People Counting Application Along with Inference Time
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Aipeoplecountingapp.gif" width="700" height="400"\></p>
-
+Click here to see [Source Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/AI%20IoT-INTEL%20EDGE%20AI/PEOPLE_COUNTING_AI-APP)
+## Project 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/carscount.gif"  width="700" height="400"\></p>
-
+## Project 
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Multiobjectdetection.gif" width="700" height="400" \></p>
-
+## Project 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/socialdistance.gif" width="700" height="400"\></p>
+## Project 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/AttendanceProject.gif"  width="700" height="400"\></p>
 
-
+## Project 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/queue.gif" width="700" height="400"\></p>
 
-
+## Project 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Face%20Recognition.gif"  width="700" height="400"\></p>
-
+## Project 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/liscence%20plate.gif" width="700" height="400"\></p>
-
+## Project 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/tracking.gif" width="700" height="400"\></p>
 
 
