@@ -12,12 +12,14 @@ Click here to see the [Source code](https://github.com/SIVASHANKAR-S/NewProjects
 
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/results.gif" width="700" height="400"\></p>
+
 Click the link to see [Source Files](https://github.com/SIVASHANKAR-S/ObjectLivecount)
 
 ## Project - Face Mask Detector
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Facemask.gif" \></p>
-Click here to see the [Source code](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/FaceMaskDetector)
+
+Click here to see the [SourceCodes](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/FaceMaskDetector)
 
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Aipeoplecountingapp.gif" width="700" height="400"\></p>
