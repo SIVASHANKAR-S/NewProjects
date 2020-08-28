@@ -18,3 +18,17 @@ MY ALL PROJECTS SOURCE CODE COLLECTIONS
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/liscence%20plate.gif" width="700" height="400"\></p>
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/socialdistance.gif" width="700" height="400"\></p>
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/tracking.gif" width="700" height="400"\></p>
+
+
+
+
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
