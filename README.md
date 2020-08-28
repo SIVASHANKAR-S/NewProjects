@@ -76,7 +76,7 @@ Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/Ne
 
 ## Project - Face Recognition Using OpenCv & Python
 
-<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Face%20Recognition.gif"  width="700" height="400"\></p>
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Face%20Recognition.gif" \></p>
 
 Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/REALTIME%20FACE%20DETECTION)
 
