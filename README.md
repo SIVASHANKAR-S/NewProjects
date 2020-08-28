@@ -3,7 +3,7 @@ MY ALL PROJECTS SOURCE CODE COLLECTIONS
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/realtimedetection.gif"\></p>
 
-<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Multiobjectdetection.gif" width="500" height="500" \></p>
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Multiobjectdetection.gif" width="600" height="600" \></p>
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Aipeoplecountingapp.gif"\></p>
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/AttendanceProject.gif"\></p>
