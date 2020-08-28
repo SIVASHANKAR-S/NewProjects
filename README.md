@@ -21,9 +21,13 @@ Click here to see [Source Files](https://github.com/SIVASHANKAR-S/ObjectLivecoun
 
 Click here to see the [Source Code](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/FaceMaskDetector)
 
+
+
 ## Project - Intel Edge AI People Counting Application Along with Inference Time
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Aipeoplecountingapp.gif" width="700" height="400"\></p>
 Click here to see [Source Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/AI%20IoT-INTEL%20EDGE%20AI/PEOPLE_COUNTING_AI-APP)
+
+
 ## Project 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/carscount.gif"  width="700" height="400"\></p>
 ## Project 
