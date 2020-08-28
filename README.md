@@ -36,16 +36,32 @@ Click here to see the [Source Files Repository](https://github.com/SIVASHANKAR-S
 
 Click here to see the [Source Project](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/CAR%20PARKING%20COUNTING%20APP).
 
-## Project 
+## Project - Object Detection
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Multiobjectdetection.gif" width="700" height="400" \></p>
-## Project 
+
+Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/REALTIMEOBJECT%20DETECTION-YOLOV4).
+
+## Project - Social Distance Monitoring AI Application
+
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/socialdistance.gif" width="700" height="400"\></p>
-## Project 
+
+Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/DEEPLEARNING%20-%20PROJECTS/SocialDistanceMonitorApp).
+
+
+
+## Project - Real Time Face Recogniton & Registration for Attendance Purpose
+
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/AttendanceProject.gif"  width="700" height="400"\></p>
 
-## Project 
+Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/DETECTION%20AND%20MARKING%20ATTENDANCE)
+
+
+## Project - Smart Queueing System  - AI Application using Intel OpenVino Toolkit
+
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/queue.gif" width="700" height="400"\></p>
+
+Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/AI%20IoT-INTEL%20EDGE%20AI/QUEUE%20SYSTEM%20MONITOR)
 
 ## Project 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Face%20Recognition.gif"  width="700" height="400"\></p>
