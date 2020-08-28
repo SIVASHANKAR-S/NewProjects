@@ -54,24 +54,30 @@ Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/Ne
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/AttendanceProject.gif"  width="700" height="400"\></p>
 
-Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/DETECTION%20AND%20MARKING%20ATTENDANCE)
+Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/DETECTION%20AND%20MARKING%20ATTENDANCE).
 
 
 ## Project - Smart Queueing System  - AI Application using Intel OpenVino Toolkit
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/queue.gif" width="700" height="400"\></p>
 
-Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/AI%20IoT-INTEL%20EDGE%20AI/QUEUE%20SYSTEM%20MONITOR)
+Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/AI%20IoT-INTEL%20EDGE%20AI/QUEUE%20SYSTEM%20MONITOR).
 
-## Project 
-<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Face%20Recognition.gif"  width="700" height="400"\></p>
-## Project 
+
+
+
+## Project - Liscence Plate Detection
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/liscence%20plate.gif" width="700" height="400"\></p>
-## Project 
+
+## Project  -  Object Tracking Apllication
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/tracking.gif" width="700" height="400"\></p>
 
 
+## Project - Face Recognition Using OpenCv & Python
 
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Face%20Recognition.gif"  width="700" height="400"\></p>
+
+Click here to see the [Source Project Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/REALTIME%20FACE%20DETECTION)
 
 
 
