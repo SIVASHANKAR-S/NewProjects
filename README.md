@@ -1,6 +1,6 @@
 # Welcome to My Project Collection Repository
 
-This Repository contains my latest Projects on Artificial Intelligence.Click on the link to view the source codes.I welcome people to colloborate with me to develop the projects.
+This Repository contains my latest Projects on Artificial Intelligence. Click on the link to view the source codes. I welcome people to colloborate with me to develop the projects.
 
 
 ## Project -  Real Time Multi Object Detection using YoloV4
