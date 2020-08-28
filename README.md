@@ -4,8 +4,15 @@
 MY ALL PROJECTS SOURCE CODE COLLECTIONS
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/realtimedetection.gif"\></p>
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/results.gif" width="700" height="400"\></p>
+
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Aipeoplecountingapp.gif" width="700" height="400"\></p>
+
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Multiobjectdetection.gif" width="700" height="400" \></p>
+
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/socialdistance.gif" width="700" height="400"\></p>
+
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Aipeoplecountingapp.gif" width="700" height="400"\></p>
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/AttendanceProject.gif"  width="700" height="400"\></p>
