@@ -30,7 +30,7 @@ Click here to see [Source files](https://github.com/SIVASHANKAR-S/NewProjects/tr
 
 ## Project - Cars Recognition and total Counting Application
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/carscount.gif"  width="700" height="400"\></p>
-Click here to see the [Source Code](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/CAR%20PARKING%20COUNTING%20APP)
+Click here to see the [Source Project](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/CAR%20PARKING%20COUNTING%20APP)
 
 ## Project 
 
