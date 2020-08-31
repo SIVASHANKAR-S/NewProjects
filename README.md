@@ -56,8 +56,15 @@ Click here to see [Source Files](https://github.com/SIVASHANKAR-S/ObjectLivecoun
 Click here to see the [Source Code](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/FaceMaskDetector).
 
 
+## Project Titanic Survival Prediction using Logistic Regression , Random Forest , Decision Tree , XGBoost .
+
+        Goal : Goal is to predict correctly survivors in Titanic Disaster
+        In this Project , I used Logistic regression , decision Tree , Random Forest & xgboost Machine learning Algorithms to predict and had a comparitive Accuracy values.\
+
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/MACHINE%20LEARNING%20-%20PROJECTS/TITANIC%20SURVIVAL%20PREDICTION/titanic1.jpg" width="700" height="400"\></p>
 
 
+Click here to see the [Source Code](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/TITANIC%20SURVIVAL%20PREDICTION)
 
 ## Project - Cars Recognition and total Counting Application
 
