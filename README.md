@@ -4,7 +4,7 @@ This Repository contains my latest Projects on Artificial Intelligence. Click on
 
 # Machine Learning projects
 
-# Project -  Ecommerce site Application Development Prediction Analysis Linear Regression Algorithm
+## Project -  Ecommerce site Application Development Prediction Analysis Linear Regression Algorithm
 
       Gaol : Do you think the company should focus more on their mobile app or on their website ?
       In this project , I used Linear Regression algorithm to predict whether to focus more on Mobile/web development.
