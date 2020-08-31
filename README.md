@@ -19,7 +19,7 @@ Click here to see the [Source Files Repository](https://github.com/SIVASHANKAR-S
       In this project , I used Linear Regression algorithm to predict whether to focus more on Mobile/web development.
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/MACHINE%20LEARNING%20-%20PROJECTS/LINEAR%20REGRESSION/Ecommerse.jpg"\></p>
-
+Click here to see the [Source Files Repository](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/LINEAR%20REGRESSION)
 
 ## Project -  Real Time Multi Object Detection using YoloV4
 
@@ -40,6 +40,7 @@ Click here to see the [Source code](https://github.com/SIVASHANKAR-S/NewProjects
            
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/MACHINE%20LEARNING%20-%20PROJECTS/BREAST%20CANCER%20-%20SVM/breast%20cancer_SVM_Report.jpg" width="700" height="400"\></p>
 
+Click here to see [Source Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/BREAST%20CANCER%20-%20SVM).
 
 ## Project - Advanced Multi Object recognition & Counting Application
 
