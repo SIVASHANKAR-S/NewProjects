@@ -4,7 +4,7 @@ This Repository contains my latest Projects on Artificial Intelligence. Click on
 
 # Machine Learning projects
 
-## Project -  Ecommerce site Application Development Prediction Analysis Linear Regression Algorithm
+## Project -  Ecommerce site Application Development Prediction Analysis using Linear Regression Algorithm
 
       Gaol : Do you think the company should focus more on their mobile app or on their website ?
       In this project , I used Linear Regression algorithm to predict whether to focus more on Mobile/web development.
@@ -17,6 +17,19 @@ This Repository contains my latest Projects on Artificial Intelligence. Click on
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/realtimedetection.gif"\></p>
  
 Click here to see the [Source code](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/REALTIMEOBJECT%20DETECTION-YOLOV4).
+
+## Project - Breast Cancer Prediction - Support Vector Machine 
+
+      Goal : Project Task
+
+            In this study, my task is to classify tumors into malignant (cancer) or benign using features obtained from several cell images.
+            Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. 
+            
+            In this Project I used Support Vector Machine Learning Algorithm to predict it.
+            
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/MACHINE%20LEARNING%20-%20PROJECTS/BREAST%20CANCER%20-%20SVM/breast%20cancer.jpg" width="700" height="400"\></p>
+
+           
 
 ## Project - Advanced Multi Object recognition & Counting Application
 
