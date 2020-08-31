@@ -1,6 +1,15 @@
 # Welcome to My Project Collection Repository
 
-This Repository contains my latest Projects on Artificial Intelligence. Click on the link to view the source codes. I welcome people to colloborate with me to develop the projects.
+This Repository contains my latest Projects on Artificial Intelligence. Click on the link to view the source codes.  I welcome people to colloborate with me to develop the projects.
+
+# Machine Learning projects
+
+# Project -  Ecommerce site customer  Prediction Analysis Linear Regression Algorithm
+
+      Gaol : Do you think the company should focus more on their mobile app or on their website ?
+      In this project , I used Linear Regression algorithm to predict whether to focus more on Mobile/web development.
+
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/MACHINE%20LEARNING%20-%20PROJECTS/LINEAR%20REGRESSION/Ecommerse.jpg"\></p>
 
 
 ## Project -  Real Time Multi Object Detection using YoloV4
