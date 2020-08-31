@@ -29,8 +29,9 @@ Click here to see the [Source code](https://github.com/SIVASHANKAR-S/NewProjects
             
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/MACHINE%20LEARNING%20-%20PROJECTS/BREAST%20CANCER%20-%20SVM/breast%20cancer.jpg" width="700" height="400"\></p>
            
-<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/MACHINE%20LEARNING%20-%20PROJECTS/BREAST%20CANCER%20-%20SVM/breast%20cancer_SVM_Report.jpg
-" width="700" height="400"\></p>
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/MACHINE%20LEARNING%20-%20PROJECTS/BREAST%20CANCER%20-%20SVM/breast%20cancer_SVM_Report.jpg" width="700" height="400"\></p>
+
+
 ## Project - Advanced Multi Object recognition & Counting Application
 
 
