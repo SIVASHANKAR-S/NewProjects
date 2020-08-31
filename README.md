@@ -19,6 +19,7 @@ Click here to see the [Source Files Repository](https://github.com/SIVASHANKAR-S
       In this project , I used Linear Regression algorithm to predict whether to focus more on Mobile/web development.
 
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/MACHINE%20LEARNING%20-%20PROJECTS/LINEAR%20REGRESSION/Ecommerse.jpg"\></p>
+
 Click here to see the [Source Files Repository](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/LINEAR%20REGRESSION)
 
 ## Project -  Real Time Multi Object Detection using YoloV4
