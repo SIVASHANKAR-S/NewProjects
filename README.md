@@ -13,6 +13,27 @@ Click here to see the [Source Files Repository](https://github.com/SIVASHANKAR-S
 
 
 
+
+## Project -  Real Time Multi Object Detection using YoloV4
+
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/realtimedetection.gif"\></p>
+ 
+Click here to see the [Source code](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/REALTIMEOBJECT%20DETECTION-YOLOV4).
+
+
+## Project - Advanced Multi Object recognition & Counting Application
+
+
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/results.gif" width="700" height="400"\></p>
+
+Click here to see [Source Files](https://github.com/SIVASHANKAR-S/ObjectLivecount).
+
+## Project - Face Mask Detector
+
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Facemask.gif" \></p>
+
+Click here to see the [Source Code](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/FaceMaskDetector).
+
 ## Project -  Ecommerce site Application Development Prediction Analysis using Linear Regression Algorithm
 
       Gaol : Do you think the company should focus more on their mobile app or on their website ?
@@ -22,11 +43,6 @@ Click here to see the [Source Files Repository](https://github.com/SIVASHANKAR-S
 
 Click here to see the [Source Files Repository](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/LINEAR%20REGRESSION)
 
-## Project -  Real Time Multi Object Detection using YoloV4
-
-<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/realtimedetection.gif"\></p>
- 
-Click here to see the [Source code](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/COMPUTERVISION-PROJECTS/REALTIMEOBJECT%20DETECTION-YOLOV4).
 
 ## Project - Breast Cancer Prediction - Support Vector Machine 
 
@@ -42,20 +58,6 @@ Click here to see the [Source code](https://github.com/SIVASHANKAR-S/NewProjects
 <p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/MACHINE%20LEARNING%20-%20PROJECTS/BREAST%20CANCER%20-%20SVM/breast%20cancer_SVM_Report.jpg" width="700" height="400"\></p>
 
 Click here to see [Source Files](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/BREAST%20CANCER%20-%20SVM).
-
-## Project - Advanced Multi Object recognition & Counting Application
-
-
-<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/results.gif" width="700" height="400"\></p>
-
-Click here to see [Source Files](https://github.com/SIVASHANKAR-S/ObjectLivecount).
-
-## Project - Face Mask Detector
-
-<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Facemask.gif" \></p>
-
-Click here to see the [Source Code](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/MACHINE%20LEARNING%20-%20PROJECTS/FaceMaskDetector).
-
 
 ## Project Titanic Survival Prediction using Logistic Regression , Random Forest , Decision Tree , XGBoost .
 
