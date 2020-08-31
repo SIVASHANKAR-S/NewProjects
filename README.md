@@ -2,7 +2,16 @@
 
 This Repository contains my latest Projects on Artificial Intelligence. Click on the link to view the source codes.  I welcome people to colloborate with me to develop the projects.
 
-# Machine Learning projects
+
+
+## Project - Intel Edge AI People Counting Application Along with Inference Time
+
+<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Aipeoplecountingapp.gif" width="700" height="400"\></p>
+
+Click here to see the [Source Files Repository](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/AI%20IoT-INTEL%20EDGE%20AI/PEOPLE_COUNTING_AI-APP).
+
+
+
 
 ## Project -  Ecommerce site Application Development Prediction Analysis using Linear Regression Algorithm
 
@@ -47,11 +56,6 @@ Click here to see the [Source Code](https://github.com/SIVASHANKAR-S/NewProjects
 
 
 
-## Project - Intel Edge AI People Counting Application Along with Inference Time
-
-<p align="center"><img src="https://github.com/SIVASHANKAR-S/NewProjects/blob/master/OUTPUTS/Aipeoplecountingapp.gif" width="700" height="400"\></p>
-
-Click here to see the [Source Files Repository](https://github.com/SIVASHANKAR-S/NewProjects/tree/master/AI%20IoT-INTEL%20EDGE%20AI/PEOPLE_COUNTING_AI-APP).
 
 
 ## Project - Cars Recognition and total Counting Application
