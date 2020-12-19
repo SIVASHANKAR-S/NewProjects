@@ -1,4 +1,4 @@
-# Welcome to My Project Collection Repository
+# Welcome to My Entry Level Project Collection Repository
 
 This Repository contains my latest Projects on Artificial Intelligence. Click on the link to view the source codes.  I welcome people to colloborate with me to develop the projects.
 
